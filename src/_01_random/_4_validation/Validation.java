@@ -14,7 +14,7 @@ public class Validation {
 		
 		
 		
-		System.out.println(randomNumber);
+		System.out.println(randomMaker);
 
 		// 1. Use each value of randomNumber to give the user a random compliment.
 		for (int i = 0; i < 11; i++) {
